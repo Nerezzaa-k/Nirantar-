@@ -1,3 +1,5 @@
+//HERE WE USED MVC architecture fot the structuring of the project
+
 import React from 'react';
 import { Routes, Route, Navigate } from 'react-router-dom';
 import { useAuth } from './context/AuthContext';
