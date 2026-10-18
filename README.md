@@ -1,6 +1,6 @@
-# Nirantar-Health care and well being
+# Nirantar-Helping Patients Stay on Track with Long-Term Treatment
 
-Helping Patients Stay on Track with Long-Term Treatment
+Theme: Health care and well being
 
 Nirantar is an AI-powered healthcare follow-up platform designed to help hospitals, healthcare workers, NGOs, and caregivers identify patients at risk of dropping out of long-term treatment.
 
