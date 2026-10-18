@@ -64,3 +64,8 @@ Explainable Risk Engine      Weekly Check-ins             Configured Mapping
   - Strict fallback to deterministic adherence protocols when OpenAI API key is missing or service is offline.
   - Mandates human review for all consequential medical actions.
   - Strict prohibition against automatic dosage changes or medicine prescriptions.
+  ### 4. Smart Escalation & Follow-up Alerts
+- Automatically flag unresolved high-priority follow-up cases.
+- Notify assigned healthcare workers when patients remain unreachable.
+- Escalate unresolved cases to authorized supervisors after configurable time limits.
+- Track escalation status until the case is reviewed or resolved.
