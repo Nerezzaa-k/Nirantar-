@@ -1,5 +1,6 @@
 import React, { useEffect, useRef } from 'react';
 import L from 'leaflet';
+// MAP TILER IS USED FOR THIS PLATFORM FOR GPS
 
 export default function HotspotMap({ hotspots = [], onSelectVillage }) {
   const mapContainerRef = useRef(null);
