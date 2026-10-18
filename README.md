@@ -71,4 +71,48 @@ Use Progressive Web App capabilities to support essential workflows in areas wit
 9. Voice-Assisted Reason Capture
 Support voice-based input to make recording patient-reported barriers more accessible for users who have difficulty typing.
 10. Configurable, Multi-Department Design
-Adapt follow-up schedules, prioritization rules, and support workflows for different medical departments without requiring a separate application for every condition.
+Adapt follow-up schedules, prioritization rules, and support workflows for different medical departments without requiring a separate application for every condition
+
+
+
+
+----------------------------------------------------------------
+STACK USED
+
+## 🛠️ Technologies Used
+
+This project is built using the **MERN Stack**:
+
+- **MongoDB** – NoSQL database for storing application data.
+- **Express.js** – Backend framework for building REST APIs.
+- **React.js** – Frontend library for building the user interface.
+- **Node.js** – JavaScript runtime for server-side development.
+
+### Additional Tools
+- Git & GitHub – Version control and code management.
+- REST API – Communication between frontend and backend.
+- JWT – Authentication and authorization (if used in this project).
+
+## 🚀 Installation and Setup
+
+1. Clone the repository:
+   ```bash
+   git clone YOUR_REPOSITORY_URL
+   ```
+
+2. Install dependencies in the frontend and backend directories:
+   ```bash
+   npm install
+   ```
+
+3. Configure environment variables in a `.env` file.
+
+4. Start the backend:
+   ```bash
+   npm run dev
+   ```
+
+5. Start the frontend:
+   ```bash
+   npm start
+   ```
