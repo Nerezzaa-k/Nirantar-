@@ -72,4 +72,3 @@ Use Progressive Web App capabilities to support essential workflows in areas wit
 Support voice-based input to make recording patient-reported barriers more accessible for users who have difficulty typing.
 10. Configurable, Multi-Department Design
 Adapt follow-up schedules, prioritization rules, and support workflows for different medical departments without requiring a separate application for every condition.
->>>>>>> 47a6ed12a04c227ed1e9bfcf333fb8a25470feb8
