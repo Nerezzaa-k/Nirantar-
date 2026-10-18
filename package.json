@@ -1,0 +1,25 @@
+{
+  "name": "nirantar-v3",
+  "version": "3.0.0",
+  "description": "Nirantar v3 — AI-Assisted Long-Term Treatment Adherence Platform",
+  "scripts": {
+    "dev:backend": "cd backend && npm run dev",
+    "dev:frontend": "cd frontend && npm run dev",
+    "seed": "cd backend && npm run seed",
+    "test:backend": "cd backend && npm test",
+    "build:frontend": "cd frontend && npm run build"
+  },
+  "keywords": [
+    "healthcare",
+    "ai",
+    "treatment-adherence",
+    "ncd",
+    "asha",
+    "fastapi",
+    "react",
+    "express",
+    "mongodb"
+  ],
+  "author": "Nirantar Team",
+  "license": "MIT"
+}

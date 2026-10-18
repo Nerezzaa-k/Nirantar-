@@ -1,0 +1,17 @@
+{
+  "short_name": "Nirantar",
+  "name": "Nirantar v3 — AI-Assisted Treatment Adherence Platform",
+  "description": "Predict who will drop out. Find out why. Match the rescue to the reason.",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#0d5c58",
+  "theme_color": "#0d5c58",
+  "display": "standalone",
+  "orientation": "portrait-primary"
+}
